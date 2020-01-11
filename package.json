@@ -1,0 +1,22 @@
+{
+  "name": "sadatspersonalwebsiteversion1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadatJubayer/my_website_v1.git"
+  },
+  "author": "\u001b[A\u001b[C\u001b[C\u001b[Bsadat jubayer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SadatJubayer/my_website_v1/issues"
+  },
+  "homepage": "https://github.com/SadatJubayer/my_website_v1",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
